@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0704-binary-search) |
 ## Binary Search
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
