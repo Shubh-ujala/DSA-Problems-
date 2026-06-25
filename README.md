@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0704-binary-search) |
@@ -27,5 +28,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
