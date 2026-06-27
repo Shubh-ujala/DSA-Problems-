@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
