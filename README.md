@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0485-max-consecutive-ones) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0704-binary-search) |
 ## Math
 |  |
