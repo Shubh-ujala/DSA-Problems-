@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0704-binary-search) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1552-magnetic-force-between-two-balls) |
 ## Math
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0141-linked-list-cycle) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
