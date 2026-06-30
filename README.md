@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3612-process-string-with-special-operations-i) |
 ## Linked List
@@ -96,9 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0141-linked-list-cycle) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
