@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1004-max-consecutive-ones-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1552-magnetic-force-between-two-balls) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1004-max-consecutive-ones-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1552-magnetic-force-between-two-balls) |
 ## Math
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Reservoir Sampling
 |  |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0918-maximum-sum-circular-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
