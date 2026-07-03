@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0242-valid-anagram) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1552-magnetic-force-between-two-balls) |
 ## Stack
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
