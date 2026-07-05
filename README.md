@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0904-fruit-into-baskets) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Interactive
 |  |
