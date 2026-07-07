@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0231-power-of-two) |
 | [0382-linked-list-random-node](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0382-linked-list-random-node) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
