@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0231-power-of-two) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0086-partition-list) |
