@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
 |  |
