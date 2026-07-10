@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0392-is-subsequence) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0382-linked-list-random-node) |
