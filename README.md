@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0844-backspace-string-compare) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3612-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
