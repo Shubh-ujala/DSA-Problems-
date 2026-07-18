@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
@@ -253,5 +255,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
