@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0394-decode-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -247,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0146-lru-cache) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
