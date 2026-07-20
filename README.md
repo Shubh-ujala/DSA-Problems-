@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
+| [1609-even-odd-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1609-even-odd-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
+| [1609-even-odd-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1609-even-odd-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -264,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
+| [1609-even-odd-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1609-even-odd-tree) |
 <!---LeetCode Topics End-->
