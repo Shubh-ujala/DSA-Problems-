@@ -223,11 +223,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0700-search-in-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1609-even-odd-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0700-search-in-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1609-even-odd-tree) |
 ## Heap (Priority Queue)
 |  |
