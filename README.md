@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1046-last-stone-weight) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1552-magnetic-force-between-two-balls) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
