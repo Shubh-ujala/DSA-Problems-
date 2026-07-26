@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0904-fruit-into-baskets) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0231-power-of-two) |
 | [0382-linked-list-random-node](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0382-linked-list-random-node) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1552-magnetic-force-between-two-balls) |
