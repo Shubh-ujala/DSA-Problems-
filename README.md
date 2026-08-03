@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1046-last-stone-weight) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1406-stone-game-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1552-magnetic-force-between-two-balls) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1406-stone-game-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1406-stone-game-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1406-stone-game-iii) |
 ## Queue
 |  |
 | ------- |
@@ -336,4 +339,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
