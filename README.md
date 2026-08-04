@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1552-magnetic-force-between-two-balls) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1552-magnetic-force-between-two-balls) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3713-longest-balanced-substring-i](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3713-longest-balanced-substring-i) |
+| [3731-find-missing-elements](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3731-find-missing-elements) |
 ## Interactive
 |  |
 | ------- |
