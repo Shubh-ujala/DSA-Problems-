@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0224-basic-calculator) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0079-word-search) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1329-sort-the-matrix-diagonally) |
 ## Enumeration
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -356,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1406-stone-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
