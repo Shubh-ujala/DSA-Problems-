@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0066-plus-one) |
 | [0224-basic-calculator](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0231-power-of-two) |
 | [0382-linked-list-random-node](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0382-linked-list-random-node) |
