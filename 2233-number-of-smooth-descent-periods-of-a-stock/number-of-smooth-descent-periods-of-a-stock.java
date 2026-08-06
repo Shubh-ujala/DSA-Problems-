@@ -9,11 +9,17 @@ class Solution {
 
         while (j < n) {
 
-            if (j > 0 && prices[j - 1] - prices[j] != 1) {
-                i = j;
+            if (j == 0) {
+                ans++;
             }
-            
-            ans += (j - i + 1);
+            else if (prices[j - 1] - prices[j] == 1) {
+                ans += (j - i + 1);
+            }
+            else {
+                i = j;
+                ans++;
+            }
+
             j++;
         }
 
