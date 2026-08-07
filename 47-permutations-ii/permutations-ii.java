@@ -1,38 +1,41 @@
-class Solution {
-    List<List<Integer>> res ;
-    HashSet<List<Integer>> set = new HashSet<>();
-    int n;
-    public List<List<Integer>> permuteUnique(int[] nums) {
-        res = new ArrayList<>();
-        n = nums.length;
-
-        int idx = 0;      
-        solve(idx, nums);
-
-        return res;
-    }   
-    public void solve(int idx, int[] nums){
-        if(idx == nums.length){
-            ArrayList<Integer> arr = new ArrayList<>();
-            for(int n : nums){
-                arr.add(n);
+class Solution 
+{
+    public static void solve(int nums[],List<List<Integer>> result,int index)
+    {
+        if(index==nums.length)
+        {
+            List<Integer> ans=new ArrayList<>();
+            for(int num:nums)
+            {
+                ans.add(num);
             }
-            if(!set.contains(arr)) {
-                res.add(arr);
-                set.add(arr);
-            }
+            result.add(ans);
             return;
         }
+        HashSet<Integer> set=new HashSet<>();
+        for(int i=index;i<nums.length;i++)
+        {
+            if(set.contains(nums[i]))
+            {
+                continue;
+            }
+            set.add(nums[i]);
 
-        for(int i = idx ; i<n ; i++){
-            swap(idx,i,nums);
-            solve(idx+1,nums);
-            swap(idx,i,nums);
+            int temp=nums[index];
+            nums[index]=nums[i];
+            nums[i]=temp;
+
+            solve(nums,result,index+1);
+
+            temp=nums[index];
+            nums[index]=nums[i];
+            nums[i]=temp;
         }
     }
-    public void swap(int a, int b , int[] nums){
-        int temp = nums[a];
-        nums[a] = nums[b];
-        nums[b] = temp;
+    public List<List<Integer>> permuteUnique(int[] nums) 
+    {
+        List<List<Integer>> result=new ArrayList<>();
+        solve(nums,result,0);
+        return result;
     }
 }
