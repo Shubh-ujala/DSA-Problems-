@@ -4,6 +4,11 @@ class Solution {
         String[] map = {"abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
         List<String> res = new ArrayList<>();
 
+        if (digits.length() == 0) {
+            return res;
+        }
+
+
         solve("",digits,map,res);
         return res;
     }
