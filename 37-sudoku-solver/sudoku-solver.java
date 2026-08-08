@@ -29,8 +29,8 @@ public class Solution {
     
     private boolean isValid(char[][] board, int row, int col, char c){
         for(int i = 0; i < 9; i++) {
-            if(board[i][col] != '.' && board[i][col] == c) return false; //check row
-            if(board[row][i] != '.' && board[row][i] == c) return false; //check column
+            if(board[i][col] != '.' && board[i][col] == c) return false; 
+            if(board[row][i] != '.' && board[row][i] == c) return false; 
         }
 
         int start_i = row/3 * 3;
