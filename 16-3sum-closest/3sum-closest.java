@@ -14,7 +14,8 @@ class Solution {
                 }
 
                 if(sum<target)i++;
-                else j--;
+                else if(sum > target) j--;
+                else return sum;
             }
         }
         return closetSum;
