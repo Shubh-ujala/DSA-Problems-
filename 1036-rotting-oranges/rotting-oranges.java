@@ -37,13 +37,14 @@ class Solution {
 
                     q.offer(new int[]{nr,nc});
                     grid[nr][nc] = 2;
+
+                    freshCount --;
+                    if(freshCount == 0) return time+1;
                 }
             }
 
             time++;
-            freshCount-= q.size();
-            if(freshCount == 0) break;
         }
-        return freshCount == 0 ? time : -1;
+        return -1;
     }
 }
