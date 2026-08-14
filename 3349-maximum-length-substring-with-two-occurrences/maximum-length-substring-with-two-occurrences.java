@@ -1,6 +1,5 @@
 class Solution {
     public int maximumLengthSubstring(String s) {
-        // HashMap<Character,Integer> hm = new HashMap<>();
         int[] freq = new int[26];
 
         int i = 0;
