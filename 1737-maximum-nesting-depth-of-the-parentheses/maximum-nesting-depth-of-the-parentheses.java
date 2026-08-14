@@ -1,6 +1,6 @@
 class Solution {
     public int maxDepth(String s) {
-        int maxLen = Integer.MIN_VALUE;
+        int maxLen = 0;
         Stack<Character> st = new Stack<>();
 
         for(char ch : s.toCharArray()){
@@ -12,6 +12,6 @@ class Solution {
             } 
         }
 
-        return maxLen == Integer.MIN_VALUE ? 0 : maxLen; 
+        return maxLen;
     }
 }
