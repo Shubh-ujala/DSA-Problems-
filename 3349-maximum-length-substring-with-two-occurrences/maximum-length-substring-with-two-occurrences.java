@@ -1,6 +1,7 @@
 class Solution {
     public int maximumLengthSubstring(String s) {
-        HashMap<Character,Integer> hm = new HashMap<>();
+        // HashMap<Character,Integer> hm = new HashMap<>();
+        int[] freq = new int[26];
 
         int i = 0;
         int j = 0;
@@ -10,14 +11,13 @@ class Solution {
 
         while( j < n){
             char ch = s.charAt(j);
-            hm.put(ch,hm.getOrDefault(ch,0)+1);
+            freq[ch -'a']++;
 
-            while(hm.get(ch) > k){
+            while(freq[ch - 'a'] > k){
                char temp = s.charAt(i);
-               int freq = hm.get(temp);
-
-               hm.put(temp,freq-1);
-               if(hm.get(temp) == 0) hm.remove(temp);
+               
+               freq[temp - 'a']--;
+               if(freq[temp - 'a'] == 0) freq[temp - 'a'] = 0;
 
                i++;
             }
