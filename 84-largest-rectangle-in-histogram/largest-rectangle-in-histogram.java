@@ -1,55 +1,30 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
-        int[] nse = NSE(heights);
-        int[] pse = PSE(heights);
-
         int maxArea = Integer.MIN_VALUE;
+        Stack<Integer> st = new Stack<>();
 
-        for(int i = 0 ; i<n ; i++){
-            int width = nse[i] - pse[i] - 1;
-            maxArea = Math.max(maxArea,heights[i]*width);
+        for(int i = 0 ; i<heights.length ; i++){
+
+            while(!st.isEmpty() && heights[st.peek()] >= heights[i]){
+                int ele = st.pop();
+
+                int nse = i;
+                int pse = st.isEmpty() ? -1 : st.peek();
+
+                maxArea = Math.max(maxArea,heights[ele] * (nse - pse - 1));
+            }
+
+            st.push(i);
+        }
+
+        while(!st.isEmpty()){
+            int nse = n;
+            int element= st.pop();
+            int pse = st.isEmpty() ? -1 : st.peek();
+
+            maxArea = Math.max(maxArea, heights[element] * (nse - pse - 1));
         }
         return maxArea;
-    }
-    public int[] NSE(int[] heights){
-        int n = heights.length;
-        int[] res = new int[n];
-
-        Stack<Integer> st = new Stack<>();
-        for(int i = n - 1;  i >= 0 ; i--){
-            while(!st.isEmpty()  && heights[st.peek()] >= heights[i]){
-                st.pop();
-            }
-            if(st.isEmpty()){
-                res[i] = n;
-            }else{
-                res[i] = st.peek();
-            }
-
-            st.push(i);
-        }
-        return res;
-    }
-    public int[] PSE(int[] heights){
-        int n = heights.length;
-        Stack<Integer> st = new Stack<>();
-
-        int[] res = new int[n];
-        for(int i = 0 ; i<n ; i++){
-            while(!st.isEmpty() && heights[st.peek()] >= heights[i]){
-                st.pop();
-            }
-
-            if(st.isEmpty()){
-                res[i] = -1; 
-            }else{
-                res[i] = st.peek();
-            }
-
-            st.push(i);
-        }
-
-        return res;
     }
 }
