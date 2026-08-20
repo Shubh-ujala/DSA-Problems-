@@ -13,18 +13,18 @@ class Solution {
                 list2.add(nums[i]);
             }
         }
+    
 
-        int[] res = new int[nums.length];
         int k = 0;
         for(int i : list1){
-            res[k++] = i;
+            nums[k++] = i;
         }
 
         for(int i : list2){
-            res[k++] = i;
+            nums[k++] = i;
         }
 
-        return res;
+        return nums;
 
     }
 }
