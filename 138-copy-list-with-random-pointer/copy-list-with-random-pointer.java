@@ -15,25 +15,44 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-        HashMap<Node,Node> hm = new HashMap<>();
+        // 3 step process
+        // 1. place the copied node in between
 
-        Node curr = head;
-        while(curr!=null){
-            Node node = new Node(curr.val); // this is the copied node of the original node
-            hm.put(curr,node);
-            curr = curr.next;
+        Node temp = head;
+        Node next = null;
+        while(temp!=null){
+            next = temp.next;
+            Node copied = new Node(temp.val);
+            temp.next = copied;
+            copied.next = next;
+            temp = next;
         }
 
-        curr = head;
-        Node deepCopy = new Node(0);
-        Node temp = deepCopy;
-        while(curr!=null){
-            temp.next = hm.get(curr);
-            temp.next.random = hm.get(curr.random);
+        // 2. connect the random pointers
+        temp = head;
+        while(temp!=null){
+            if(temp.random!= null){
+                temp.next.random = temp.random.next;
+            }else{
+                temp.next.random = temp.random;
+            }
+            temp = temp.next.next;
+        }
+        
+        // 3. connect the next pointers
+        Node dummy = new Node(0);
+        temp = head;
+        Node res = dummy;
+
+        while(temp!=null){
+
+            res.next = temp.next;
+            res = res.next;
+            temp.next = temp.next.next;
+
             temp = temp.next;
-            curr = curr.next;
         }
 
-        return deepCopy.next;
+        return dummy.next;
     }
 }
