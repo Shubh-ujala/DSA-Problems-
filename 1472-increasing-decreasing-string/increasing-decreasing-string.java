@@ -9,7 +9,6 @@ class Solution {
             freq[c - 'a']++;
         }
 
-        Arrays.sort(ch);
 
         while(true){
 
