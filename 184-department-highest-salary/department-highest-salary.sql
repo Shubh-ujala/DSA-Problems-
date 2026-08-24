@@ -4,5 +4,6 @@ from employee e
 Left join department d on e.departmentId = d.id
 where e.salary = (
     select max(salary) as salary from Employee
-    where d.id = departmentId
+    group by departmentId
+    having d.id = departmentId
 )
