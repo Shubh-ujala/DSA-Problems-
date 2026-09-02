@@ -3,32 +3,38 @@ class Solution {
         int n = nums.length;
 
         int sum = 0;
-        for(int i : nums){
+        for (int i : nums) {
             sum += i;
         }
-        if ( sum % 2 != 0) return false;
+        if (sum % 2 != 0)
+            return false;
 
-        int target = sum /2 ;
-        int[][] dp = new int[n][target+1];
-        for(int i[] : dp){
-            Arrays.fill(i,-1);
-        }
+        int target = sum / 2;
+        boolean[][] dp = new boolean[n][target + 1];
 
-        return solve( n - 1 , target , nums , dp);
+        return solve(n - 1, target, nums, dp);
     }
-    public boolean solve(int idx , int target , int[] nums , int[][] dp){
 
-        if(target == 0) return true;
-        if(dp[idx][target]!= -1) return dp[idx][target] == 0 ? false : true;
-        if( idx == 0) return nums[0] == target;
+    public boolean solve(int idx , int target , int[] nums , boolean[][] dp){
 
-        boolean not_pick = solve(idx-1, target, nums, dp);
-        boolean pick = false;
-        if(target >= nums[idx]){
-            pick = solve(idx - 1, target - nums[idx] , nums , dp);
+        for(int i =  0 ; i< nums.length ; i++){
+            dp[i][0] = true;
         }
-        
-        dp[idx][target] = not_pick || pick ? 1 : 0;
-        return not_pick || pick;
+        if(nums[0] <= target){
+            dp[0][nums[0]] = true;
+        }
+
+        for(int i = 1; i<nums.length ; i++){
+            for(int j = 1 ; j <= target ; j++){
+                boolean not_pick = dp[i-1][j];
+                boolean pick = false;
+                if(j >= nums[i]){
+                    pick = dp[i - 1][j - nums[i]];
+                }
+                dp[i][j] = not_pick || pick;
+            }
+        }
+
+        return dp[nums.length - 1][target];
     }
 }
