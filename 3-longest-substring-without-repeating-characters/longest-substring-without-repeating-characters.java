@@ -1,6 +1,6 @@
 class Solution {
-    public int lengthOfLongestSubstring(String s) {
-        HashMap<Character,Integer> hm = new HashMap<>(); 
+    public int lengthOfLongestSubstring(String s) { 
+        int[] freq = new int[256];
         int i = 0;
         int j = 0;
         int maxLen = Integer.MIN_VALUE;
@@ -8,15 +8,12 @@ class Solution {
         int n = s.length();
         while(j < n){
             char ch = s.charAt(j);
-            hm.put(ch,hm.getOrDefault(ch,0)+1);
+            freq[ch]++;
 
-            while(hm.get(ch) > 1){
-                
+            while(freq[ch] > 1){
                 char start = s.charAt(i);
 
-                hm.put(start, hm.get(start)-1);
-
-                if(hm.get(start) == 0) hm.remove(start);
+                freq[start]--;
 
                 i++;
             }
