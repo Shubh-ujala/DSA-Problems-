@@ -11,9 +11,11 @@ class Solution {
             hm.put(ch,hm.getOrDefault(ch,0)+1);
 
             while(hm.get(ch) > 1){
+                
                 char start = s.charAt(i);
-                int freq = hm.get(start);
-                hm.put(start, freq-1);
+
+                hm.put(start, hm.get(start)-1);
+
                 if(hm.get(start) == 0) hm.remove(start);
 
                 i++;
