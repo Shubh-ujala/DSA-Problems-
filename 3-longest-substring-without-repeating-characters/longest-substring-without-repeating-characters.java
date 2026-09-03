@@ -3,7 +3,7 @@ class Solution {
         int[] freq = new int[256];
         int i = 0;
         int j = 0;
-        int maxLen = Integer.MIN_VALUE;
+        int maxLen = 0;
 
         int n = s.length();
         while(j < n){
@@ -12,9 +12,7 @@ class Solution {
 
             while(freq[ch] > 1){
                 char start = s.charAt(i);
-
                 freq[start]--;
-
                 i++;
             }
 
