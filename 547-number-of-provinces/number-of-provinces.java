@@ -11,30 +11,20 @@ class Solution {
 
             if (!visited[i]) {
                 count++;
-                bfs(i, adj, visited);
+                dfs(i, adj, visited);
             }
         }
 
         return count;
     }
 
-    public void bfs(int idx, int[][] adj, boolean[] visited) {
+    public void dfs(int idx, int[][] adj, boolean[] visited) {
 
-        Queue<Integer> q = new LinkedList<>();
-
-        q.offer(idx);
         visited[idx] = true;
 
-        while (!q.isEmpty()) {
-
-            int curr = q.poll();
-
-            for (int j = 0; j < adj.length; j++) {
-
-                if (adj[curr][j] == 1 && !visited[j]) {
-                    visited[j] = true;
-                    q.offer(j);
-                }
+        for(int j = 0 ; j<adj.length ; j++){
+            if(adj[idx][j] == 1 && !visited[j]){
+                dfs(j,adj,visited);
             }
         }
     }
