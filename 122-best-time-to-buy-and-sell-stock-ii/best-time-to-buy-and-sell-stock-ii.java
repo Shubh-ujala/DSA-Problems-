@@ -1,25 +1,32 @@
+import java.util.*;
+
 class Solution {
-    public int maxProfit(int[] prices) {
-        int n = prices.length;
-        int[][] dp = new int[n][2];
+    private int func(int[] arr, int n) {
+        int[][] dp = new int[n + 1][2];
 
-        for(int[] row: dp){
-            Arrays.fill(row,-1);
+        dp[n][0] = dp[n][1] = 0;
+
+        int profit = 0;
+
+        for (int ind = n - 1; ind >= 0; ind--) {
+            for (int buy = 0; buy <= 1; buy++) {
+                if (buy == 0) { 
+                    profit = Math.max(0 + dp[ind + 1][0], (-1)*arr[ind] + dp[ind + 1][1]);
+                }
+            
+                if (buy == 1) { 
+                    profit = Math.max(0 + dp[ind + 1][1], arr[ind] + dp[ind + 1][0]);
+                }
+
+                dp[ind][buy] = profit;
+            }
         }
-        return solve(0,1,prices,dp);
+
+        return dp[0][0];
     }
-    public int solve(int idx , int canBuy , int[] prices,int[][]dp){
 
-        if(idx == prices.length) return 0;
-        if(dp[idx][canBuy] != -1) return dp[idx][canBuy];
-
-        int profit = Integer.MIN_VALUE;
-        if(canBuy == 1){
-            profit = Math.max((-prices[idx] + solve(idx+1,0,prices,dp)),(0 + solve(idx+1,1,prices,dp)));
-        }else{
-            profit = Math.max((prices[idx] + solve(idx+1,1,prices,dp)),(0 + solve(idx+1,0,prices,dp)));
-        }
-
-        return dp[idx][canBuy] = profit;
+    public int maxProfit(int[] arr){
+        int n = arr.length;
+        return func(arr, n);
     }
 }
