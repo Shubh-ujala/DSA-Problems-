@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3731-find-missing-elements](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1004-max-consecutive-ones-iii) |
+| [3904-smallest-stable-index-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
