@@ -12,10 +12,13 @@ class Solution {
         if(i == s.length()) return 0;
         if(dp[i][j]!= -1) return dp[i][j];
 
+        int pick = 0;
+
         if(s.charAt(i) == t.charAt(j)){
-            return dp[i][j] =  solve(i+1,j+1, s, t) + solve(i+1,j,s,t);
-        }else{
-            return dp[i][j] = solve(i+1,j,s,t);
+            pick += solve(i+1,j+1, s, t);
         }
+        int not_pick = solve(i+1,j,s,t);
+
+        return dp[i][j] = pick+not_pick;
     }
 }
