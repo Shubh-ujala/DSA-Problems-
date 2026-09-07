@@ -1,20 +1,12 @@
 class Solution {
-    private boolean bfs(int i , int[] color , List<List<Integer>> adj){
-        Queue<Integer> q = new LinkedList<>();
-        q.offer(i);
-        color[i] = 0;
+    private boolean dfs(int i ,int currColor, int[] color, List<List<Integer>> adj){
+        color[i] = currColor;
 
-        while(!q.isEmpty()){
-            int node = q.poll();
-
-            for(int nbr : adj.get(node)){
-                if(color[nbr] == -1){
-                    color[nbr] = 1 - color[node];   
-                    q.offer(nbr);
-                }else if(color[nbr] == color[node]) return false;
-            }
+        for(int nbr : adj.get(i)){
+            if(color[nbr] == -1){
+                if(!dfs(nbr,1-currColor,color,adj)) return false;
+            }else if(color[nbr] == currColor) return false;
         }
-
         return true;
     }
 
@@ -27,7 +19,7 @@ class Solution {
 
         for(int i = 0 ; i<n ; i++){
             if(color[i] == -1){
-                if(!bfs(i,color,adj)) return false;
+                if(!dfs(i,0,color,adj)) return false;
             }
         }
         
