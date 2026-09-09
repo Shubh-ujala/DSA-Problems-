@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3871-count-commas-in-range-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3871-count-commas-in-range-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
