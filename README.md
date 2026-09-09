@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0086-partition-list) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0125-valid-palindrome) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0877-stone-game) |
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1757-recyclable-and-low-fat-products) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
