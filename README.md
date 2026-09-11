@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3731-find-missing-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3713-longest-balanced-substring-i) |
 | [3731-find-missing-elements](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3731-find-missing-elements) |
 ## Interactive
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3713-longest-balanced-substring-i) |
 ## Doubly-Linked List
 |  |
