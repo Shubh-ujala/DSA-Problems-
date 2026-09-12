@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0486-predict-the-winner) |
+| [0622-design-circular-queue](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0739-daily-temperatures) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0146-lru-cache) |
+| [0622-design-circular-queue](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0382-linked-list-random-node) |
+| [0622-design-circular-queue](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
