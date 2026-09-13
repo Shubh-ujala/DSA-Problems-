@@ -360,12 +360,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0785-is-graph-bipartite](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0127-word-ladder) |
+| [0785-is-graph-bipartite](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0785-is-graph-bipartite) |
 | [1609-even-odd-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1609-even-odd-tree) |
 ## Quickselect
 |  |
@@ -415,4 +417,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0005-longest-palindromic-substring) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
