@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0392-is-subsequence) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0257-binary-tree-paths) |
 | [0785-is-graph-bipartite](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0257-binary-tree-paths) |
 ## Database
 |  |
 | ------- |
