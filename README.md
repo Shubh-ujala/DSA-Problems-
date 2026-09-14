@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0066-plus-one) |
 | [0224-basic-calculator](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0326-power-of-three) |
 | [0382-linked-list-random-node](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0382-linked-list-random-node) |
 | [0486-predict-the-winner](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0486-predict-the-winner) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/2094-finding-3-digit-even-numbers) |
