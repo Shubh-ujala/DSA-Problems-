@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1046-last-stone-weight) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1329-sort-the-matrix-diagonally](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1406-stone-game-iii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0877-stone-game) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1406-stone-game-iii](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1486-xor-operation-in-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -449,4 +451,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/0836-rectangle-overlap) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Shubh-ujala/DSA-Problems-/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
